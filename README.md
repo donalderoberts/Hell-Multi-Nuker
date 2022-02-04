@@ -1,7 +1,7 @@
 # HELL MULTI NUKER TOOL: 
 
 # --> [TUTORIAL COMING SOON!](https://www.youtube.com/channel/UCGO6iaht2JPMyWo4nDXxeiA)
-![Hell-Multi-Nuker](https://user-images.githubusercontent.com/98466479/151713460-85f125c2-90ea-4f0e-8679-2f8ad9da6e69.JPG)
+![Hell-Multi-Nuker](https://user-images.githubusercontent.com/98466479/152503510-42996a6d-0fe6-47c1-9236-a9cb7f71ccad.JPG)
 
 ### Features Of Tool:
 
